@@ -1,5 +1,4 @@
-from parentnode import ParentNode
-from leafnode import LeafNode
+from htmlnode import ParentNode, LeafNode
 import unittest
 
 
